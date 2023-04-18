@@ -1,12 +1,19 @@
-# 01. Foodier
+# Foodier
 
 *Preentrega 2 - Gelabert Francisco - Comisión 52150 Coderhouse*
 
+## 01- Deploy 
+
+https://franciscogelabert.github.io/PreEntrega2GelabertFrancisco/index.html
+
+
+## 02- Descripción General 
 
 El objetivo de Foodier es brindarle a un usuario la posibilidad de publicar y organizar publicaciones relacionadas a recetas de comidas y experiencias en negocios gastronómicos.
 Permitiéndoles acceder a las recetas que más le gustaron a los usuarios (♥️), a listados de recetas de autores específicos (@) y a recetas que contengan temas particulares (#).
 
-02- Funcionalidades generales del Sistema.
+## 03- Funcionalidades generales del Sistema.
+
 A continuación, en la Figura 1, se presenta un diagrama de Casos de uso simplificado y un detalle con la descripción de los mismos a trazo grueso.
 
 
@@ -14,7 +21,7 @@ A continuación, en la Figura 1, se presenta un diagrama de Casos de uso simplif
 ![Diagrama de Funcionalidades](https://github.com/franciscogelabert/PreEntrega2GelabertFrancisco/blob/master/docs/0%20-%20Diagrama%20Foodier.png)
 
 
-## 2. Detalle de funcionalidades.
+## 4. Detalle de funcionalidades.
 
 **01. Home:**	Presenta un menú desde el cual se puede acceder al contenido publicado por los contenidistas de la Página, a las diferentes funcionalidades para el login o registro de usuarios, consultar info de mi perfil, buscar publicaciones y publicar 	Desktop
 
